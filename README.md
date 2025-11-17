@@ -19,7 +19,7 @@ Simple example of a custom Agent developed with ADK and published in GeminiEntre
 ## Install
 
 
-1. CD to the root of the project `adk-country-fact`, provide the correct values in the `.env` file:
+1. CD to the root of the project `adk-country-fact`, rename `.env.template` to `.env`, and provide the correct values in the `.env` file:
 
 ```shell
 GOOGLE_GENAI_USE_VERTEXAI=TRUE
